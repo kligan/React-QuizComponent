@@ -14,7 +14,7 @@ this.state = {quiz_position: 1};
 
         render(
         <div>
-            <div className="QuizQuestion"></div>
+            Quiz
         </div>
 
             )
