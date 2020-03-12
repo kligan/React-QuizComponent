@@ -12,14 +12,15 @@ let quizData = require('./quiz_data.json')
 this.state = {quiz_position: 1};
 
 
-        render(){
-        <div>
-            Quiz
-        </div>
-
-        }
+      
     }
-
+    render(){
+        return(
+    <div>
+        Quiz
+    </div>
+        )
+    }
     
 }
 
